@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: flipthecoin
+Formal-Name: Flip The Coin
+App-ID: ml.amarquaye.flipthecoin
+Version: 0.0.1
+Home-page: https://amarquaye.ml/flipthecoin
+Download-URL: https://amarquaye.ml/flipthecoin
+Author: Jesse Amarquaye
+Author-email: llordjesse@gmail.com
+Summary: An interactive game which allows you to guess whether a coin will be flipped to display heads or tails
